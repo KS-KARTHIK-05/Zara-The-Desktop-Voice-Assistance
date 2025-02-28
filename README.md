@@ -33,6 +33,7 @@ Zara is a Python-based voice assistant capable of performing a wide range of tas
 ## Usage
 
 1. Run the application:
+   ```bash
    python zara.py
 2. Use the GUI to start Zara or interact with it via voice commands directly.
 
@@ -66,7 +67,7 @@ https://drive.google.com/file/d/1ZIkY-YXdMN_b0gSFc3vuu4QO5lI5PddE/view?usp=drive
 This is a private repository, and contributions are currently limited. Special thanks to **Nicholas Christo** for contributing to the project. If you have suggestions or improvements, feel free to discuss them directly with the repository owner.
 
 ## License
-   MIT License
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 .SpeechRecognition
