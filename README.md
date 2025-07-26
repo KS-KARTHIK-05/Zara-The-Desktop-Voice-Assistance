@@ -10,7 +10,7 @@ Zara is a Python-based voice assistant capable of performing a wide range of tas
 - **Voice Commands:**
   - Web searches (Google, YouTube, Wikipedia).
   - System operations (shutdown, restart, lock, hibernate).
-  - Application controls (Notepad, Paint, Command Prompt, etc.).
+  - Application controls (Notepad, Command Prompt, etc.).
   - Browser controls (open, close, incognito mode, navigation).
   - Media controls (volume adjustment, mute/unmute).
   - Utilities (current time, screenshot, calculations).
