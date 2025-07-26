@@ -1,6 +1,6 @@
 # Zara-The-Desktop-Voice-Assistance
 Zara is an advanced voice assistant project utilizing computer vision (CV), speech recognition, and SQLite3 for database management. It converts voice inputs to text and responds with speech. Designed for seamless interaction, Zara showcases cutting-edge AI capabilities. Perfect for developers interested in AI-driven solutions.
-# Zara - Desktop Voice Assistant
+# Zara - Desktop Voice Assistance
 
 Zara is a Python-based voice assistant capable of performing a wide range of tasks, including web searches, managing applications, and interacting with the system. It uses speech recognition and text-to-speech technology to provide an interactive user experience.
 
